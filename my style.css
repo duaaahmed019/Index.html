@@ -1,0 +1,81 @@
+.logopic{
+width: 100px;
+height: 100 px;
+}
+
+
+.square{
+ border:3px solid black;
+}
+
+li{
+ display: inline;
+
+}
+.a{ border-color: aqua;
+margin-left: 1000px;
+padding-left: 2 px;
+
+
+}
+.b{border-color:aqua;
+    margin-left: 800px;
+    padding-left: 2 px;
+    
+
+}
+.c{
+     border-color: aqua;
+    margin-left: 700px;
+    padding-left: 2 px;
+    
+
+
+}
+
+.d{
+    border-color: aqua;
+    margin-left: 600px;
+    padding-left: 2px;
+    
+
+} 
+
+.e{
+      border-color: aqua;
+    margin-left: 500px;
+    padding-left: 2 px;
+    
+
+} 
+
+
+
+
+.para{
+
+    position:absolute;
+    font-size: 5em;
+    margin-left: 400px;
+}
+
+.h{
+z-index: 1;
+height: 400 px;
+display:block:
+
+
+
+}
+.card1{
+border-color :2px solid rgb(24,6,24);
+margin-left:500px;
+width = 500px;
+height=300px;}
+
+.card2{
+ border-color: 2px solid rgb(24,6,24);
+ display=inline;
+padding:100px;
+margin: 100px;
+}
